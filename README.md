@@ -1,6 +1,6 @@
-- Hi, I’m @fmoyson
-- I’m interested in Machine Learning / AI, and I'm planning to fill my github with Python experiments in this domain to serve as a code base for later use.
-- 📫 You can reach me with : francois.m[at]protonmail.com
+Hi, I’m @fmoyson
+I’m interested in Machine Learning / AI, and I'm planning to fill my github with Python experiments in this domain to serve as a code base for later use.
+📫 You can reach me with : francois.m[at]protonmail.com
 
 10/11/2023 : Added k-NNFP classifier algorithm (k nearest neighbours on features projection).
 
