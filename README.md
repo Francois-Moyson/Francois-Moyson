@@ -4,7 +4,7 @@
 
 10/11/2023: Added k-NNFP classifier algorithm (k nearest neighbours on features projection).
 
-11/05/2023 : Added Voting Feature Intervals algorithm.
+11/06/2023 : Added Voting Feature Intervals algorithm.
 
 Please look at the notebooks to find links to the reference papers on which they're based.
 
